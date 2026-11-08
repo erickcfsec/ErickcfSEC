@@ -1,234 +1,289 @@
-<!--
-  ERICK FERREIRA | CYBERSECURITY PROFILE
-  Theme: Dark Blue / Cyan
-  Animation: Low
--->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:071B35,75:003B60,100:00D9FF&height=220&section=header&text=ERICK%20FERREIRA&fontSize=43&fontColor=E0F7FF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC%20OPERATIONS&descSize=13&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=4000&pause=1800&color=00BFFF&center=true&vCenter=true&width=700&lines=ERICK+FERREIRA;CYBERSECURITY+%7C+BLUE+TEAM;NETWORK+SECURITY+%7C+SOC+OPERATIONS" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+CYBERSECURITY+SYSTEM...;%3E+LOADING+BLUE+TEAM+MODULES...;%3E+MONITORING+SECURITY+EVENTS...;%3E+ANALYZING+THREATS...;%3E+DEFENDING+DIGITAL+ENVIRONMENTS..." />
 
-<p>
-  <strong>CYBERSECURITY STUDENT | ASPIRING SOC ANALYST</strong>
-</p>
+<br/>
 
-<p>
-  <a href="https://github.com/erickcfsec">
-    <img src="https://img.shields.io/badge/GitHub-erickcfsec-0B1929?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/erickcferreirasec/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1929?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:erickcf01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0B1929?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-ASPIRING_SOC_ANALYST-102B45?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-BLUE_TEAM-003B60?style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1929&height=3&section=header" width="100%" alt="Blue divider"/>
+<br/><br/>
+
+<a href="https://github.com/erickcfsec">
+<img src="https://img.shields.io/badge/GITHUB-ACCESS_TERMINAL-071B35?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://www.linkedin.com/in/erickcferreirasec/">
+<img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH_CONNECTION-071B35?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+<a href="mailto:erickcf01@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SECURE_CONTACT-071B35?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
 
 </div>
 
-## `> whoami`
+---
 
-Hello! I'm **Erick Ferreira**, a Systems Analysis and Development student from Brazil, building my path in Cybersecurity.
+## `01 // SYSTEM.IDENTITY`
 
-My primary interest is **Blue Team operations**, particularly security monitoring, threat detection, incident response, and network security.
+```bash
+root@cybersec:~$ whoami
+```
 
-I enjoy understanding how systems work, investigating security-related behaviors, and developing practical projects to strengthen my technical foundation.
+**Erick Ferreira | Cybersecurity Student | Brazil**
 
-My approach is based on continuous learning, hands-on experimentation, and defensive security practices.
+I'm building my career in Cybersecurity, focusing on **Blue Team operations, SOC analysis, threat detection, and incident response**.
+
+My objective is to develop practical defensive security capabilities through hands-on laboratories, Python automation, network analysis, and security investigations.
+
+```bash
+root@cybersec:~$ cat mission.txt
+
+MISSION:
+  Understand threats.
+  Investigate suspicious activity.
+  Detect malicious behavior.
+  Strengthen digital defenses.
+
+STATUS: LEARNING // BUILDING // DEFENDING
+```
 
 ---
 
-## `> areas_of_interest`
+## `02 // CYBERSECURITY OPERATIONS`
 
-| Area | Focus |
-|---|---|
-| 🛡️ Blue Team | Defensive security and threat detection |
-| 🔎 SOC Operations | Security monitoring and event analysis |
-| 🌐 Network Security | TCP/IP, network protocols and traffic analysis |
-| 🚨 Incident Response | Investigation, containment and recovery |
-| 🐍 Security Automation | Python scripting and security workflows |
-| 🔐 Information Security | Security fundamentals and risk awareness |
-
----
-
-## `> technical_stack`
-
-### Programming & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1929?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-0B1929?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0B1929?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</p>
-
-### Operating Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-0B1929?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0B1929?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows"/>
-</p>
-
-### Networking
-
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0B1929?style=for-the-badge&logo=cisco&logoColor=00BFFF" alt="TCP/IP"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-0B1929?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Computer Networks"/>
-</p>
+| MODULE | SPECIALIZATION |
+|:---|:---|
+| `01` 🛡️ | Blue Team & Defensive Security |
+| `02` 🔍 | SOC Operations & Log Analysis |
+| `03` 🌐 | Network Security & TCP/IP |
+| `04` 🚨 | Threat Detection & Incident Response |
+| `05` 🐍 | Python Security Automation |
+| `06` 🔐 | Information Security |
 
 ---
 
-## `> featured_projects`
+## `03 // TECHNICAL ARSENAL`
 
-Practical projects focused on cybersecurity, security analysis, controlled simulations, and technical learning.
+**PROGRAMMING & AUTOMATION**
 
-### 🛡️ Python Malware Behavior Lab
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark"/>
+</p>
 
-**Repository:** [python-malware-behavior-lab](https://github.com/erickcfsec/python-malware-behavior-lab)
+**OPERATING SYSTEMS**
 
-An educational cybersecurity laboratory focused on controlled malware behavior simulation and defensive analysis.
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark"/>
+</p>
+
+**NETWORKING & SECURITY**
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-003B60?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/NETWORKING-071B35?style=for-the-badge&logo=cloudflare&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/SECURITY_ANALYSIS-003B60?style=for-the-badge&logo=hackthebox&logoColor=00D9FF"/>
+</p>
+
+---
+
+## `04 // ACTIVE OPERATIONS — PROJECTS`
+
+> Security laboratories, controlled simulations, technical investigations, and defensive security development.
+
+### `01` — PYTHON MALWARE BEHAVIOR LAB
+
+<a href="https://github.com/erickcfsec/python-malware-behavior-lab">ACCESS REPOSITORY →</a>
+
+Educational laboratory focused on simulated malware behavior and defensive security analysis.
 
 - Ransomware behavior simulation.
 - Simulated keylogger behavior using prepared input data.
-- Structured security event logging.
-- Basic SOC event analysis.
+- Structured event logging.
+- SOC-oriented event analysis.
 - Defensive security practices.
 
-**Technologies:** Python | JSONL | Security Analysis
+`PYTHON` `JSONL` `MALWARE ANALYSIS` `BLUE TEAM`
 
-### 🔍 Cybersecurity Lab — Simulations & Defense
+### `02` — CYBERSECURITY LAB
 
-**Repository:** [Cybersecurity-Lab---Simulacoes-e-Defesa](https://github.com/erickcfsec/Cybersecurity-Lab---Simulacoes-e-Defesa)
+<a href="https://github.com/erickcfsec/Cybersecurity-Lab---Simulacoes-e-Defesa">ACCESS REPOSITORY →</a>
 
-A practical learning environment for exploring cybersecurity concepts, attack simulations, and defensive strategies.
+Practical environment for exploring cybersecurity concepts, controlled attack simulations, and defensive strategies.
 
-**Focus:** Cybersecurity Fundamentals | Security Labs | Defensive Practices
+`SECURITY LAB` `SIMULATION` `DEFENSIVE SECURITY`
 
-### 🔐 Controlled Brute Force Attack Simulation
+### `03` — BRUTE FORCE SIMULATION
 
-**Repository:** [Simulacao-de-Ataque-de-Brute-Force](https://github.com/erickcfsec/Simulacao-de-Ataque-de-Brute-Force-em-Ambiente-Controlado-DVWA-Medusa-An-lise-de-Tr-fego-)
+<a href="https://github.com/erickcfsec/Simulacao-de-Ataque-de-Brute-Force-em-Ambiente-Controlado-DVWA-Medusa-An-lise-de-Tr-fego-">ACCESS REPOSITORY →</a>
 
-An educational project exploring authentication security and controlled brute-force simulations using DVWA and Medusa.
+Controlled authentication attack simulation using DVWA and Medusa, exploring authentication weaknesses and network traffic analysis.
 
-**Focus:** Authentication Security | Controlled Testing | Network Traffic Analysis
+`DVWA` `MEDUSA` `AUTHENTICATION SECURITY` `TRAFFIC ANALYSIS`
 
-### 🤖 DIO Security Agent
+### `04` — DIO SECURITY AGENT
 
-**Repository:** [dio-security-agent](https://github.com/erickcfsec/dio-security-agent)
+<a href="https://github.com/erickcfsec/dio-security-agent">ACCESS REPOSITORY →</a>
 
-An AI security agent learning project focused on vulnerability analysis and security assessment.
+AI security agent learning project focused on vulnerability analysis and security assessment.
 
-**Focus:** AI | Cybersecurity | Security Assessment
+`AI` `CYBERSECURITY` `VULNERABILITY ANALYSIS`
 
-### 📚 Cybersecurity Study Notebook
+### `05` — CYBERSECURITY STUDY NOTEBOOK
 
-**Repository:** [Caderno-Tematico-Ciberseguranca](https://github.com/erickcfsec/Caderno-Tematico-Ciberseguranca)
+<a href="https://github.com/erickcfsec/Caderno-Tematico-Ciberseguranca">ACCESS REPOSITORY →</a>
 
-A thematic study project exploring security risks and attacks targeting users with elevated privileges in corporate environments.
+Technical study of security risks and attacks targeting privileged users in corporate environments.
 
-**Focus:** Security Research | Privileged Accounts | Learning Documentation
-
----
-
-## `> future_projects`
-
-Projects planned for future development as I expand my technical skills.
-
-| Project | Planned focus |
-|---|---|
-| 🤖 AI Security Agent | AI-assisted security analysis and vulnerability assessment |
-| ⚙️ Python SOAR Automation | Security automation and incident response workflows |
-| 🏢 Active Directory Lab | Windows domains, identity security and attack detection |
-| 🔄 DevSecOps Pipeline | Security checks integrated into CI/CD workflows |
-
-*These projects are part of my development roadmap and are not presented as completed work.*
+`SECURITY RESEARCH` `PRIVILEGED ACCOUNTS` `DOCUMENTATION`
 
 ---
 
-## `> certification_roadmap`
+## `05 // DEVELOPMENT ROADMAP`
 
-My long-term goal is to build a strong professional foundation in cybersecurity through structured learning and industry-recognized certifications.
+```text
+[ PHASE 01 ] — PRACTICAL FOUNDATIONS
 
-### Phase 01 — Cybersecurity Foundations
+  [ ] Windows Event Log Analyzer
+  [ ] Brute Force Detection
+  [ ] Network Traffic Analysis
 
-- [ ] Google Cybersecurity Professional Certificate
-- [ ] IBM Cybersecurity Analyst Professional Certificate
-- [ ] Microsoft Cybersecurity Analyst Professional Certificate
-- [ ] CompTIA Security+
+[ PHASE 02 ] — SECURITY MONITORING
 
-### Phase 02 — Defensive Security & Threat Analysis
+  [ ] Wazuh Mini SOC
+  [ ] MITRE ATT&CK Detection Lab
 
-- [ ] CompTIA CySA+
-- [ ] HTB Certified Defensive Security Analyst (CDSA)
-- [ ] OffSec Defense Analyst (OSDA)
+[ PHASE 03 ] — THREAT INVESTIGATION
 
-### Phase 03 — Incident Response & Advanced Security
+  [ ] Phishing Analyzer
+  [ ] Threat Intelligence Tool
+  [ ] Incident Response Casebook
 
-- [ ] GIAC Certified Incident Handler (GCIH)
+[ PHASE 04 ] — ADVANCED OPERATIONS
 
-**Status:** Planned — not yet earned.
+  [ ] Active Directory Lab
+  [ ] Python SOAR Automation
+  [ ] AI Security Agent
+  [ ] DevSecOps Security Pipeline
+```
 
-*This roadmap is a long-term learning plan, not a fixed exam schedule. Priorities may change according to practical experience, prerequisites, and professional goals.*
-
----
-
-## `> current_learning_path`
-
-My current learning priorities:
-
-- [x] Python fundamentals
-- [x] Computer networking fundamentals
-- [x] TCP/IP fundamentals
-- [x] Git and GitHub fundamentals
-- [ ] Linux administration and command line
-- [ ] Network traffic analysis
-- [ ] Security monitoring and log analysis
-- [ ] SIEM fundamentals
-- [ ] Incident response workflows
-- [ ] Security automation with Python
-
-*The checked items represent foundational knowledge or study already undertaken, not professional mastery.*
+<sub>Development roadmap — upcoming projects are not represented as completed work.</sub>
 
 ---
 
-## `> professional_objective`
+## `06 // CERTIFICATION PROTOCOL`
 
-My objective is to develop into a cybersecurity professional with a strong foundation in defensive security.
+**PHASE 01 — FOUNDATIONS**
 
-I'm particularly interested in opportunities involving:
+```text
+[ ] Google Cybersecurity Professional Certificate
+[ ] IBM Cybersecurity Analyst
+[ ] Microsoft Cybersecurity Analyst
+[ ] CompTIA Security+
+```
 
-- SOC Analyst operations
-- Blue Team activities
-- Security Monitoring
-- Threat Detection
-- Incident Response
-- Network Security
+**PHASE 02 — DEFENSIVE SECURITY**
 
-I believe practical experience, continuous learning, and a strong understanding of security fundamentals are essential to becoming an effective security analyst.
+```text
+[ ] CompTIA CySA+
+[ ] HTB Certified Defensive Security Analyst (CDSA)
+[ ] OffSec Defense Analyst (OSDA)
+```
+
+**PHASE 03 — INCIDENT RESPONSE**
+
+```text
+[ ] GIAC Certified Incident Handler (GCIH)
+```
+
+<sub>Certification roadmap: planned objectives, not certifications already earned.</sub>
 
 ---
 
-## `> let's_connect`
+## `07 // LEARNING ENVIRONMENT`
 
-I'm open to connecting with cybersecurity professionals, developers, recruiters, and people interested in information security.
+```bash
+root@cybersec:~$ ./learning_status.sh
+
+[FOUNDATIONS]
+  Python fundamentals
+  Networking fundamentals
+  TCP/IP
+  Git & GitHub
+
+[CURRENT DEVELOPMENT]
+  Linux administration
+  Windows event analysis
+  Network traffic investigation
+  SIEM fundamentals
+  Threat detection
+  Incident response
+  Security automation
+
+[STATUS] CONTINUOUS DEVELOPMENT
+```
+
+---
+
+## `08 // PROFESSIONAL TARGET`
+
+```text
+TARGET: JUNIOR SOC ANALYST
+
+CORE OBJECTIVES:
+
+  > Security Monitoring
+  > Log Analysis
+  > Threat Detection
+  > Incident Investigation
+  > Network Security
+  > Incident Response
+  > Defensive Automation
+```
+
+My goal is to transform cybersecurity knowledge into practical defensive capabilities, developing the technical foundation required to work in a Security Operations Center.
+
+---
+
+## `09 // LANGUAGE MODULE`
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
+
+---
+
+## `10 // ESTABLISH SECURE CONNECTION`
+
+Interested in Blue Team, SOC operations, threat detection, and cybersecurity?
+
+Let's connect.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/erickcferreirasec/">
-  <img src="https://img.shields.io/badge/LinkedIn-Erick%20Ferreira-0B1929?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn Profile"/>
-</a>
-
-<a href="https://github.com/erickcfsec">
-  <img src="https://img.shields.io/badge/GitHub-erickcfsec-0B1929?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:erickcf01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-0B1929?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/CONTACT_ME-003B60?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p>
-  <sub>Learning continuously. Building responsibly. Defending digitally.</sub>
-</p>
+<br/><br/>
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       SYSTEM STATUS: CONTINUOUSLY ACTIVE     ║
+║                                              ║
+║       LEARN // ANALYZE // DETECT // DEFEND   ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B60,100:020617&height=120&section=footer"/>
+
+<sub>ERICK FERREIRA // CYBERSECURITY PORTFOLIO // 2027</sub>
 
 </div>
