@@ -146,27 +146,27 @@ Technical study of security risks and attacks targeting privileged users in corp
 ```text
 [ PHASE 01 ] — PRACTICAL FOUNDATIONS
 
-  [ ] Windows Event Log Analyzer
-  [ ] Brute Force Detection
-  [ ] Network Traffic Analysis
+  [✔️​] Windows Event Log Analyzer
+  [  ] Brute Force Detection
+  [  ] Network Traffic Analysis
 
 [ PHASE 02 ] — SECURITY MONITORING
 
-  [ ] Wazuh Mini SOC
-  [ ] MITRE ATT&CK Detection Lab
+  [  ] Wazuh Mini SOC
+  [  ] MITRE ATT&CK Detection Lab
 
 [ PHASE 03 ] — THREAT INVESTIGATION
 
-  [ ] Phishing Analyzer
-  [ ] Threat Intelligence Tool
-  [ ] Incident Response Casebook
+  [  ] Phishing Analyzer
+  [  ] Threat Intelligence Tool
+  [  ] Incident Response Casebook
 
 [ PHASE 04 ] — ADVANCED OPERATIONS
 
-  [ ] Active Directory Lab
-  [ ] Python SOAR Automation
-  [ ] AI Security Agent
-  [ ] DevSecOps Security Pipeline
+  [  ] Active Directory Lab
+  [  ] Python SOAR Automation
+  [  ] AI Security Agent
+  [  ] DevSecOps Security Pipeline
 ```
 
 <sub>Development roadmap — upcoming projects are not represented as completed work.</sub>
