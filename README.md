@@ -137,7 +137,21 @@ AI security agent learning project focused on vulnerability analysis and securit
 
 Technical study of security risks and attacks targeting privileged users in corporate environments.
 
-`SECURITY RESEARCH` `PRIVILEGED ACCOUNTS` `DOCUMENTATION`
+`SECURITY RESEARCH` `PRIVILEGED ACCOUNTS` `DOCUMENTATION` 
+
+### `06` — WINDOWS EVENT LOG ANALYZER
+
+[ACCESS REPOSITORY →](https://github.com/erickcfsec/windows-event-log-analyzer)
+
+Python-based tool for collecting, parsing, and analyzing Windows Security Event Logs, with detection of repeated authentication failures and automated security alert generation.
+
+- Windows Security Event Log collection and analysis.
+- Event ID 4625 detection for repeated failed logon attempts.
+- Configurable detection thresholds and time windows.
+- JSON-based alert storage, severity classification, and deduplication.
+- Automated test suite.
+
+`PYTHON` `WINDOWS EVENT LOGS` `LOG ANALYSIS` `THREAT DETECTION` `BLUE TEAM`
 
 ---
 
