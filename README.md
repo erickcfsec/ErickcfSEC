@@ -161,7 +161,7 @@ Python-based tool for collecting, parsing, and analyzing Windows Security Event 
 [ PHASE 01 ] — PRACTICAL FOUNDATIONS
 
   [✔️​] Windows Event Log Analyzer
-  [  ] Brute Force Detection
+  [✔️] Brute Force Detection
   [  ] Network Traffic Analysis
 
 [ PHASE 02 ] — SECURITY MONITORING
